@@ -1,11 +1,12 @@
 <div align="center">
-
+  
 ```console
-$ ./execute --profile guilherme_pedroso
+
 ╔════════════════════════════════════════════╗
 ║             GUILHERME PEDROSO              ║
 ║    operations × delivery × web3 × AI       ║
 ╚════════════════════════════════════════════╝
+
 ```
 
 </div>
@@ -41,7 +42,7 @@ experience_summary:
   - 11+ years spanning technical project management, operations, and delivery
   - Environments range from decentralized web3 startups to traditional corporate IT
   - Track record of founder-level ownership and managing distributed teams
----
+
 ```
 
 ## `tech_stack`
