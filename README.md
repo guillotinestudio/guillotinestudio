@@ -1,157 +1,106 @@
 <div align="center">
 
-```txt
+```console
+$ ./execute --profile guilherme_pedroso
 ╔════════════════════════════════════════════╗
-║              GUILHERME PEDROSO            ║
-║   operations × delivery × web3 × AI        ║
+║             GUILHERME PEDROSO              ║
+║    operations × delivery × web3 × AI       ║
 ╚════════════════════════════════════════════╝
 ```
 
 </div>
 
-
-## whoami
+## `whoami`
 
 ```yaml
+---
 name: Guilherme Pedroso
-current location: Florianópolis, SC, Brazil (GMT-3)
-work_mode: remote / distributed 
-languages:
-  english: fluent
-  portuguese: native
-  spanish: conversational
-identity:
-  - M-shaped professional
-  - operations + project delivery + customer-facing tech
-  - strong technical understanding from IT experience and personal interest
-  - especially interested in web3 and artificial intelligence
-  - likes improving many areas of the operation
-what_i_do_best:
-  - bring structure to messy workflows
-  - coordinate technical and non-technical stakeholders
-  - translate business needs into execution
-  - support users and teams through technical friction
-  - improve visibility, follow-up, documentation, and delivery flow
-background:
-  - 11+ years across project management, operations, delivery, and support-adjacent work
-  - experience in web3 environments, startup operations and traditional IT
-  - founder-level execution and cross-functional coordination
+location: Florianópolis, SC, Brazil (UTC-3)
+work_model: remote / distributed
+languages: [English (Fluent), Portuguese (Native), Spanish (Conversational)]
+
+professional_identity:
+  - background: BA + Project Management training, shaped by years in trad and web3 IT delivery and operations
+  - archetype: The bridge between business objectives and technical execution
+  - differentiator: Combines operations discipline, technical intuition, and founder-style ownership
+
+target_roles:
+  - Technical Project Manager (TPM)
+  - Web3 Operations Manager
+  - Web3 Customer Engineer / Support Solutions
+  - Technical Delivery Manager
+
+value_proposition:
+  - translation: Convert abstract business requirements into clear engineering execution
+  - operations: Bring structure, visibility, and process to fast-paced, distributed teams
+  - customer_success: Guide users and stakeholders through complex technical friction
+  - cross_functional: Align founders, product, engineering, and ops toward shared goals
+  - web3_fluency: Natively navigate blockchain infrastructure, wallets, and on-chain data
+
+experience_summary:
+  - 11+ years spanning technical project management, operations, and delivery
+  - Environments range from decentralized web3 startups to traditional corporate IT
+  - Track record of founder-level ownership and managing distributed teams
+---
 ```
 
-## i shine in
-
-````yaml
-- structure messy work
-- improve workflows and visibility
-- bridge founders, ops, product, engineering, and users
-- support onboarding, support, and delivery processes
-- investigate issues and move them toward resolution
-- keep execution moving without unnecessary noise
-````
-
-## interests
-````
-- systems that make work easier to run
-- web3 operations
-- technical project management
-- founder support
-- customer engineering
-- AI-native workflows
-````
-## tech stack
+## `tech_stack`
 
 <details>
-<summary><strong>operations / delivery / management</strong></summary>
+<summary><strong><code>operations // delivery // management</code></strong></summary>
 
 ```yaml
-- Jira
-- Confluence
-- Asana
-- Azure DevOps
-- ClickUp
-- Trello
-- Notion
-- Google Workspace
-- Microsoft Office
+- platforms: [Jira, Confluence, Azure DevOps, Asana, Notion, ClickUp]
+- methodologies: [Scrum, Kanban, agile delivery, sprint planning, retrospectives]
+- management: [delivery metrics, dashboards, RACI, process playbooks]
 ```
 
 </details>
 
 <details>
-<summary><strong>agile / execution systems</strong></summary>
+<summary><strong><code>web3 // on-chain environments</code></strong></summary>
 
 ```yaml
-- Scrum
-- Kanban
-- backlog refinement
-- sprint planning
-- retrospectives
-- delivery metrics
-- RACI
-- dashboards
-- playbooks
-- intake flows
-- onboarding processes
+- networks: [Ethereum, Base, Bitcoin, Solana]
+- infrastructure: [RPC environments, JSON-RPC, WebSockets, node monitoring]
+- operations: [block explorers, on-chain verification, bridge behavior analysis]
+- assets: [wallets, smart-contract events, Ordinals]
 ```
 
 </details>
 
 <details>
-<summary><strong>web3 / technical environments</strong></summary>
+<summary><strong><code>customer_engineering // support</code></strong></summary>
 
 ```yaml
-- Ethereum
-- Base
-- Bitcoin
-- Ordinals
-- wallets
-- on-chain verification
-- blockchain explorers
-- RPC environments
-- JSON-RPC
-- WebSockets
-- node sync monitoring
-- bridge behavior
-- transaction monitoring
-- smart-contract events
+- user_support: [technical troubleshooting, issue investigation, QA coordination]
+- documentation: [drafting user guides, knowledge bases, process mapping]
+- ai_automation: [AI agents, Hermes Agent, operational analysis, workflow acceleration]
 ```
 
 </details>
 
 <details>
-<summary><strong>ai / automation</strong></summary>
+<summary><strong><code>technical_environments</code></strong></summary>
 
 ```yaml
-- AI agents
-- Hermes Agent
-- research workflows
-- troubleshooting support
-- documentation drafting
-- operational analysis
-- workflow acceleration
+- ecosystem: [Azure Boards, Repos, Pipelines, Test Plans, Artifacts]
+- delivery: [release readiness, UAT coordination, production monitoring]
+- workspace: [Google Workspace, Microsoft Office suite]
 ```
 
 </details>
 
-<details>
-<summary><strong>basic devops</strong></summary>
+## `ping`
 
-```yaml
-- Azure DevOps Boards
-- Azure DevOps Repos
-- Azure DevOps Pipelines
-- Azure DevOps Test Plans
-- Azure DevOps Artifacts
-- production monitoring support
-- issue investigation
-- release readiness support
-- QA / UAT coordination
-```
-
-</details>
-
-## contact
-
-- email: guilhermep@gmail.com
-  x: x.com/gillpedroso
-- linkedin: linkedin.com/in/guilherme-pedroso-b1753a37
+<div align="left">
+  <a href="mailto:guilhermep@gmail.com">
+    <img src="https://img.shields.io/badge/Email-guilhermep%40gmail.com-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+  </a>
+  <a href="https://x.com/gillpedroso">
+    <img src="https://img.shields.io/badge/X-%40gillpedroso-000000?style=for-the-badge&logo=x&logoColor=white" alt="X"/>
+  </a>
+  <a href="https://linkedin.com/in/guilherme-pedroso-b1753a37">
+    <img src="https://img.shields.io/badge/LinkedIn-Guilherme_Pedroso-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+  </a>
+</div>
