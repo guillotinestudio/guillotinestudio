@@ -1,57 +1,157 @@
-<div data-importer="image" align="center">
-  <img data-importer="image" height="150" src="https://media.giphy.com/media/M9gbBd9nbDrOTu1Mqx/giphy.gif"  />
+<div align="center">
+
+```txt
+╔════════════════════════════════════════════╗
+║              GUILHERME PEDROSO            ║
+║   operations × delivery × web3 × AI        ║
+╚════════════════════════════════════════════╝
+```
+
 </div>
 
-###
 
-<div data-importer="socials" align="center">
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="linkedin logo"  />
-  <img src="https://img.shields.io/static/v1?message=Youtube&logo=youtube&label=&color=FF0000&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="youtube logo"  />
-  <img src="https://img.shields.io/static/v1?message=Twitter&logo=twitter&label=&color=1DA1F2&logoColor=white&labelColor=&style=for-the-badge" height="25" alt="twitter logo"  />
-</div>
+## whoami
 
-###
+```yaml
+name: Guilherme Pedroso
+current location: Florianópolis, SC, Brazil (GMT-3)
+work_mode: remote / distributed 
+languages:
+  english: fluent
+  portuguese: native
+  spanish: conversational
+identity:
+  - M-shaped professional
+  - operations + project delivery + customer-facing tech
+  - strong technical understanding from IT experience and personal interest
+  - especially interested in web3 and artificial intelligence
+  - likes improving many areas of the operation
+what_i_do_best:
+  - bring structure to messy workflows
+  - coordinate technical and non-technical stakeholders
+  - translate business needs into execution
+  - support users and teams through technical friction
+  - improve visibility, follow-up, documentation, and delivery flow
+background:
+  - 11+ years across project management, operations, delivery, and support-adjacent work
+  - experience in web3 environments, startup operations and traditional IT
+  - founder-level execution and cross-functional coordination
+```
 
-<div data-importer="profile-views" align="center">
-  <img data-importer="profile-views" src="https://visitor-badge.laobi.icu/badge?page_id=maurodesouza.maurodesouza&"  />
-</div>
+## i shine in
 
-###
+````yaml
+- structure messy work
+- improve workflows and visibility
+- bridge founders, ops, product, engineering, and users
+- support onboarding, support, and delivery processes
+- investigate issues and move them toward resolution
+- keep execution moving without unnecessary noise
+````
 
-<h1 data-importer="text" align="center">hey there 👋</h1>
+## interests
+````
+- systems that make work easier to run
+- web3 operations
+- technical project management
+- founder support
+- customer engineering
+- AI-native workflows
+````
+## tech stack
 
-###
+<details>
+<summary><strong>operations / delivery / management</strong></summary>
 
-<h3 data-importer="text" align="left">👩‍💻  About Me</h3>
+```yaml
+- Jira
+- Confluence
+- Asana
+- Azure DevOps
+- ClickUp
+- Trello
+- Notion
+- Google Workspace
+- Microsoft Office
+```
 
-###
+</details>
 
-<p data-importer="text" align="left">I'm Guilherme Pedroso from Florianópolis, BR<br><br>- 🔭 I’m a freelancer Web3 Operations Manager currently looking for fixed job positions.<br>- 📚 I'm currently learning ...<br>- ⚡ In my free time I paint and take artistic photographs.</p>
+<details>
+<summary><strong>agile / execution systems</strong></summary>
 
-###
+```yaml
+- Scrum
+- Kanban
+- backlog refinement
+- sprint planning
+- retrospectives
+- delivery metrics
+- RACI
+- dashboards
+- playbooks
+- intake flows
+- onboarding processes
+```
 
-<h3 data-importer="text" align="left">🛠 Language and tools</h3>
+</details>
 
-###
+<details>
+<summary><strong>web3 / technical environments</strong></summary>
 
-<div data-importer="techs" align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/go/go-original-wordmark.svg" height="40" alt="go logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/rust/rust-original.svg" height="40" alt="rust logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-plain-wordmark.svg" height="40" alt="ruby logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/dot-net/dot-net-plain-wordmark.svg" height="40" alt="dot-net logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain-wordmark.svg" height="40" alt="firebase logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/amazonwebservices/amazonwebservices-line-wordmark.svg" height="40" alt="amazonwebservices logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/circleci/circleci-plain.svg" height="40" alt="circleci logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kubernetes/kubernetes-plain.svg" height="40" alt="kubernetes logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/docker/docker-plain-wordmark.svg" height="40" alt="docker logo"  />
-</div>
+```yaml
+- Ethereum
+- Base
+- Bitcoin
+- Ordinals
+- wallets
+- on-chain verification
+- blockchain explorers
+- RPC environments
+- JSON-RPC
+- WebSockets
+- node sync monitoring
+- bridge behavior
+- transaction monitoring
+- smart-contract events
+```
 
-###
+</details>
+
+<details>
+<summary><strong>ai / automation</strong></summary>
+
+```yaml
+- AI agents
+- Hermes Agent
+- research workflows
+- troubleshooting support
+- documentation drafting
+- operational analysis
+- workflow acceleration
+```
+
+</details>
+
+<details>
+<summary><strong>basic devops</strong></summary>
+
+```yaml
+- Azure DevOps Boards
+- Azure DevOps Repos
+- Azure DevOps Pipelines
+- Azure DevOps Test Plans
+- Azure DevOps Artifacts
+- production monitoring support
+- issue investigation
+- release readiness support
+- QA / UAT coordination
+```
+
+</details>
+
+## contact
+
+- email: guilhermep@gmail.com
+  x: x.com/gillpedroso
+- linkedin: linkedin.com/in/guilherme-pedroso-b1753a37
