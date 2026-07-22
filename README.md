@@ -4,7 +4,7 @@
 
 ╔════════════════════════════════════════════╗
 ║             GUILHERME PEDROSO              ║
-║    operations × web3 × delivery × AI       ║
+║    operations × web3 × delivery            ║
 ╚════════════════════════════════════════════╝
 
 ```
@@ -47,50 +47,17 @@ experience_summary:
 
 ## `tech_stack`
 
-<details>
-<summary><strong><code>operations // delivery // management</code></strong></summary>
-
 ```yaml
-- platforms: [Jira, Confluence, Azure DevOps, Asana, Notion, ClickUp]
-- methodologies: [Scrum, Kanban, agile delivery, sprint planning, retrospectives]
-- management: [delivery metrics, dashboards, RACI, process playbooks]
+  operations_management: [Jira, Confluence, Azure DevOps, Asana, Notion, ClickUp, Google Workspace, MS Office]
+  methodologies: [Scrum and Kanban proficient, agile delivery, sprint planning, retrospectives]
+  management: [delivery metrics, dashboards, RACI, process playbooks]
+  web3: [EVMs, Bitcoin and UTXO based, Solana, RPC environments, WebSockets, node monitoring, on-chain verification, smart-contract events]
+  customer_engineering_support: [technical troubleshooting, issue investigation, QA coordination, user guides, knowledge bases, process mapping]
+  ai_automation: [Hermes Agent, operational analysis, workflow acceleration, documentation drafting]
+  devops_delivery: [release readiness, UAT coordination, production monitoring, QA follow-up, deployment tracking, incident follow-up]
+
 ```
 
-</details>
-
-<details>
-<summary><strong><code>web3 // on-chain environments</code></strong></summary>
-
-```yaml
-- networks: [Ethereum, Base, Bitcoin, Solana]
-- infrastructure: [RPC environments, JSON-RPC, WebSockets, node monitoring]
-- operations: [block explorers, on-chain verification, bridge behavior analysis]
-- assets: [wallets, smart-contract events, Ordinals]
-```
-
-</details>
-
-<details>
-<summary><strong><code>customer_engineering // support</code></strong></summary>
-
-```yaml
-- user_support: [technical troubleshooting, issue investigation, QA coordination]
-- documentation: [drafting user guides, knowledge bases, process mapping]
-- ai_automation: [AI agents, Hermes Agent, operational analysis, workflow acceleration]
-```
-
-</details>
-
-<details>
-<summary><strong><code>technical_environments</code></strong></summary>
-
-```yaml
-- ecosystem: [Azure Boards, Repos, Pipelines, Test Plans, Artifacts]
-- delivery: [release readiness, UAT coordination, production monitoring]
-- workspace: [Google Workspace, Microsoft Office suite]
-```
-
-</details>
 
 ## `ping`
 
