@@ -4,7 +4,7 @@
 
 ╔════════════════════════════════════════════╗
 ║             GUILHERME PEDROSO              ║
-║    operations × delivery × web3 × AI       ║
+║    operations × web3 × delivery × AI       ║
 ╚════════════════════════════════════════════╝
 
 ```
@@ -14,7 +14,6 @@
 ## `whoami`
 
 ```yaml
----
 name: Guilherme Pedroso
 location: Florianópolis, SC, Brazil (UTC-3)
 work_model: remote / distributed
@@ -22,20 +21,21 @@ languages: [English (Fluent), Portuguese (Native), Spanish (Conversational)]
 
 professional_identity:
   - background: BA + Project Management training, shaped by years in trad and web3 IT delivery and operations
-  - archetype: The bridge between business objectives and technical execution
+  - archetype: Strategic operator bridging business and technology
   - differentiator: Combines operations discipline, technical intuition, and founder-style ownership
 
-target_roles:
-  - Technical Project Manager (TPM)
-  - Web3 Operations Manager
-  - Web3 Customer Engineer / Support Solutions
-  - Technical Delivery Manager
+target_opportunities:
+- web3 operations
+- customer engineering
+- technical project management
+- founder support
+- AI-native workflows
 
 value_proposition:
-  - translation: Convert abstract business requirements into clear engineering execution
   - operations: Bring structure, visibility, and process to fast-paced, distributed teams
+  - translation: Bridge business needs and technical execution
   - customer_success: Guide users and stakeholders through complex technical friction
-  - cross_functional: Align founders, product, engineering, and ops toward shared goals
+  - cross_functional: Align founders, product, engineering, and clients toward shared goals
   - web3_fluency: Natively navigate blockchain infrastructure, wallets, and on-chain data
 
 experience_summary:
