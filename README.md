@@ -1,15 +1,4 @@
-<div align="center">
-  
-```console
 
-╔════════════════════════════════════════════╗
-║             GUILHERME PEDROSO              ║
-║    operations × web3 × delivery            ║
-╚════════════════════════════════════════════╝
-
-```
-
-</div>
 
 ## `whoami`
 
