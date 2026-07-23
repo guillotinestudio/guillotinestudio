@@ -22,13 +22,13 @@ target_opportunities:
 
 value_proposition:
   - operations: Bring structure, visibility, and process to fast-paced, distributed teams
-  - translation: Bridge business needs and technical execution
+  - tech_x_biz: Bridge business needs and technical execution
   - customer_success: Guide users and stakeholders through complex technical friction
   - cross_functional: Align founders, product, engineering, and clients toward shared goals
-  - web3_fluency: Natively navigate blockchain infrastructure, wallets, and on-chain data
+  - web3_fluency: Natively navigate blockchain infrastructure, on-chain data, smart contract events
 
 experience_summary:
-  - 11+ years spanning technical project management, operations, and delivery
+  - 11+ years spanning technical project management, operations, and interface with users
   - Environments range from decentralized web3 startups to traditional corporate IT
   - Track record of founder-level ownership and managing distributed teams
 
@@ -42,7 +42,7 @@ experience_summary:
   management: [delivery metrics, dashboards, RACI, process playbooks]
   web3: [EVMs, Bitcoin and UTXO based, Solana, RPC environments, WebSockets, node monitoring, on-chain verification, smart-contract events]
   customer_engineering_support: [technical troubleshooting, issue investigation, QA coordination, user guides, knowledge bases, process mapping]
-  ai_automation: [Hermes Agent, operational analysis, workflow acceleration, documentation drafting]
+  ai_automation: [agents, chatbots, operational analysis, workflow acceleration, documentation drafting]
   devops_delivery: [release readiness, UAT coordination, production monitoring, QA follow-up, deployment tracking, incident follow-up]
 
 ```
