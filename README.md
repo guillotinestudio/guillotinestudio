@@ -1,6 +1,20 @@
+## GUILLOTINE STUDIO
+
+Frontier tech projects
+
+Current: 
+
+- M.U.D. Onchain text-based adventure
+
+- ADHD God - Talk with a productivity AI Agent with a complex of superiority 
+
+Other products:
+
+fipehoje.com (fully automated website via AI Agents)
 
 
-## `whoami`
+
+## `About`
 
 ```yaml
 name: Guilherme Pedroso
