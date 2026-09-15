@@ -1,7 +1,7 @@
 ## `GUILLOTINE STUDIO`
 
 ```yaml
-Frontier tech projects
+Frontier tech projects.
 
 Current: 
 
@@ -9,7 +9,7 @@ Current:
 
 - ADHD God - Talk with a productivity AI Agent with a complex of superiority 
 
-Other products:
+past projects:
 
 fipehoje.com (fully automated website via AI Agents)
 
