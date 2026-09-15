@@ -1,6 +1,6 @@
 ## `GUILLOTINE STUDIO`
 
-`'``yaml
+```yaml
 Frontier tech projects
 
 Current: 
@@ -14,9 +14,10 @@ Other products:
 fipehoje.com (fully automated website via AI Agents)
 
 
-
+```
 ## `About`
 
+```yaml
 name: Guilherme Pedroso
 location: Florianópolis, SC, Brazil (UTC-3)
 work_model: remote / distributed
